@@ -16,7 +16,7 @@ import AarpatangalPorattangal from "./pages/mukkiya/AarpatangalPorattangal";
 import Podhukootangal from "./pages/mukkiya/Podhukootangal";
 import RecentEvents from "./pages/mukkiya/RecentEvents";
 
-import Contact from "./pages/contact";  // Import Contact page component
+import Contact from "./pages/Contact";  // Import Contact page component
 
 function App() {
   return (
